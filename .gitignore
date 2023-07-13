@@ -1,0 +1,8 @@
+.env
+init
+node_modules
+redis-data
+mongo-data
+mysql-data
+kong_postgres_password
+ijeoma
